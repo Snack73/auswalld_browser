@@ -20,7 +20,7 @@ Before running the application, ensure that the following are installed on your 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/my-cool-browser.git
+    git clone https://github.com/Snack73/auswalld_browser.git
     cd my-cool-browser
     ```
 
