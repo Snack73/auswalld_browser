@@ -21,7 +21,7 @@ Before running the application, ensure that the following are installed on your 
 1. Clone the repository:
     ```bash
     git clone https://github.com/Snack73/auswalld_browser.git
-    cd my-cool-browser
+    cd auswalld_browser
     ```
 
 2. Create a virtual environment (optional but recommended):
